@@ -6,8 +6,6 @@
 
 ## About Me
 
----
-
 After 10 years as a research engineer in the field of microsystems, I felt the urge to make a shift in my career to retrieve the thrill!
 
 I first discovered web development through self-learning and it quickly became a new passion!
@@ -28,8 +26,6 @@ Let's get in touch!
 </a>
 
 ## Skills
-
----
 
 ### Design
 
@@ -66,7 +62,6 @@ Let's get in touch!
 
 ## GitHub Metrics
 
----
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddZ6ii&layout=compact&theme=ayu-mirage&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ddZ6ii&theme=ayu-mirage&show_icons=true&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)
