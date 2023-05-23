@@ -1,9 +1,7 @@
-# <center> <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="auto" height="32"/> Hi, I'm Denis </center>
+# <p align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="auto" height="32"/> Hi, I'm Denis </p> <p align="center">`Full Stack Web Developer`</p>
 
-## **<center> `Full Stack Web Developer` </center>**
-
-<div id="header">
-  <img src="https://github.com/ddZ6ii/ddZ6ii/assets/126237877/541bfadb-21dc-4089-a203-e1d51f08452f" style="max-width: 100%; max-height: 250px; object-fit: cover; display:block; margin-inline: auto" />
+<div align="center">
+  <img src="https://github.com/ddZ6ii/ddZ6ii/assets/126237877/541bfadb-21dc-4089-a203-e1d51f08452f" style="max-height: 400px; object-fit: cover"/>
 </div>
 
 ## About Me
@@ -69,5 +67,7 @@ Let's get in touch!
 ## GitHub Metrics
 
 ---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddZ6ii&layout=compact&theme=ayu-mirage&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddZ6ii&theme=ayu-mirage&show_icons=true&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ddZ6ii&theme=ayu-mirage&show_icons=true&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)
+
