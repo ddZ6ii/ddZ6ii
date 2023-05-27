@@ -20,7 +20,6 @@ I am open to new job opportunites so feel free to reach out to me 🙂
 
 Let's get in touch!
 
-👉
 <a href="https://www.linkedin.com/in/denis-dezest/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&" style="vertical-align: middle" />
 </a>
