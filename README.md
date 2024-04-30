@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="auto" height="32"/> Hi, I'm Denis </p> <p align="center">`Full Stack Web Developer`</p>
+# <p align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="auto" height="32"/> Hi, I'm Denis </p> <p align="center">`Fullstack Web Developer`</p>
 
 <div align="center">
   <img src="https://github.com/ddZ6ii/ddZ6ii/assets/126237877/541bfadb-21dc-4089-a203-e1d51f08452f" style="max-height: 400px; object-fit: cover"/>
