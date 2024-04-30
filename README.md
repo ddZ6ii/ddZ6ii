@@ -8,9 +8,7 @@
 
 After 10 years as a research engineer in the field of microsystems, I felt the urge to make a shift in my career to retrieve the thrill!
 
-I first discovered web development through self-learning and it quickly became a new passion!
-
-Now I am currently getting my FullStack Web & Mobile Developer certification from the [Wild Code Shool](https://www.wildcodeschool.com/fr-FR), where I perfect my learning of frontend and backend technologies through various challenging and stimulating team projects.
+I first discovered web development through self-learning and it quickly became a new passion! Then, I decided to really get serious about it and I successfully passed the **Web & Web Mobile Developer** certification after a 6-month intensive bootcamp at the [Wild Code Shool](https://www.wildcodeschool.com/fr-FR), where I was able to perfect my skills of fullstack technologies through various challenging and stimulating team projects.
 
 Curious, creative and passionate about designing and coding new things, I particularly love frontend development!
 
