@@ -1,78 +1,58 @@
-# <p align="center"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="auto" height="32"/> Hi, I'm Denis </p> <p align="center">`Fullstack Web Developer`</p>
-
 <div align="center">
-  <img src="https://github.com/ddZ6ii/ddZ6ii/assets/126237877/541bfadb-21dc-4089-a203-e1d51f08452f" style="max-height: 400px; object-fit: cover"/>
+  <h3>Hi, I'm Denis <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="24" alt=""/></h3>
+  <p><strong>Full-Stack Developer based in Thailand 🇹🇭</strong><br/>React · TypeScript · Node.js</p>
+  <hr/>
+  <img src="./assets/profile-banner.webp" alt="Denis Dezest — Full-Stack Developer" width="100%"/>
 </div>
 
-## About Me
+I build web applications with **React, TypeScript and Node.js**, with a focus on maintainable architecture, reliable testing and developer experience.
 
-After 10 years as a research engineer in the field of microsystems, I felt the urge to make a shift in my career to retrieve the thrill!
+Previously, I worked as a Frontend Developer at Egis, contributing to a production platform for public water utilities, including GIS interfaces, data visualizations and reusable frontend components.
 
-I first discovered web development through self-learning and it quickly became a new passion! Then, I decided to really get serious about it and I successfully passed the **Web & Web Mobile Developer** certification after a 6-month intensive bootcamp at the [Wild Code Shool](https://www.wildcodeschool.com/fr-FR), where I was able to perfect my skills of fullstack technologies through various challenging and stimulating team projects.
+Before moving into software development, I spent 7+ years in engineering research and earned a PhD. That background shaped my approach to problem-solving, technical rigor and continuous improvement.
 
-Curious, creative and passionate about designing and coding new things, I particularly love frontend development!
+I'm currently exploring frontend and full-stack developer opportunities in Thailand.
 
-Looking back now, I am so glad I finally took the leap and not a single day goes by without me feeling accomplished at work!
+## 🚀 Featured Projects
 
-I am open to new job opportunites so feel free to reach out to me 🙂
+### CodeJam — Team project
 
-Let's get in touch!
+A full-stack platform for writing, executing and sharing JavaScript and TypeScript code collaboratively.
 
-<a href="https://www.linkedin.com/in/denis-dezest/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&" style="vertical-align: middle" />
-</a>
+- **Frontend:** React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, GraphQL, TypeORM, PostgreSQL
+- **Security:** Resource-level authorization and JWT authentication
+- **Execution:** Isolated code execution using Docker-out-of-Docker and Deno
 
-## Skills
+**My part:** designed the sandboxed code runner and GraphQL authorization.
 
-### Design
+[🌐 Live demo](https://092024-rouge-1.wns.wilders.dev/editor) · [💻 Source code](https://github.com/WildCodeSchool/2409-wns-rouge-codejam)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
+### Pokédex — Personal project
 
-### FrontEnd
+A modern Pokémon browser built with React and TypeScript.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+- **Frontend:** React, TypeScript, Tailwind CSS, shadcn/ui
+- **Architecture:** TanStack Router, TanStack Query, Zod
+- **Quality:** Vitest, React Testing Library, automated CI/CD
+- **DevOps:** Docker, security scanning and VPS deployment
 
-### BackEnd
+[🌐 Live demo](https://pokedex.ddz6ii.io/) · [💻 Source code](https://github.com/ddZ6ii/pokedex)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+## 🛠️ Tech Stack
 
-### Testing
+- **Frontend:** React · TypeScript · JavaScript · Vite · TanStack · Zustand · Tailwind CSS · MUI · shadcn/ui · OpenLayers
+- **Backend & APIs:** Node.js · Express · GraphQL · REST APIs · PostgreSQL · MySQL · SQLite · TypeORM
+- **Testing & quality:** Vitest · React Testing Library · Zod · Unit and integration testing
+- **DevOps & tooling:** Docker · Git · GitHub Actions · GitLab CI/CD · Nx · Storybook
 
-![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+## 📫 Get in touch
 
-### Tools
+Open to discussing frontend engineering, full-stack development and interesting web application projects.
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoCol)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+- 💼 [LinkedIn](https://www.linkedin.com/in/denis-dezest)
+- ✉️ [Email](mailto:denis.dezest@gmail.com)
 
-## GitHub Metrics
+## 📊 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddZ6ii&layout=compact&theme=ayu-mirage&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ddZ6ii&theme=ayu-mirage&show_icons=true&bg_color=00000000&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddZ6ii&layout=compact&theme=ayu-mirage&bg_color=1f2430&title_color=ffa24e&icon_color=00b5d0&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
